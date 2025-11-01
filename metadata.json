@@ -1,0 +1,5 @@
+{
+  "name": "MP4 Player Pro",
+  "description": "A sleek and modern MP4 video player built with React and Tailwind CSS. Upload and watch your local MP4 files with a beautiful, responsive, and intuitive interface.",
+  "requestFramePermissions": []
+}
